@@ -1,0 +1,14 @@
+8 total bills; last bill is hr9
+--> parsing hr1
+--> parsing hr1
+--> parsing hr3
+--> parsing hr4
+--> parsing hr5
+--> parsing hr6
+--> parsing hr7
+--> parsing hr8
+--> parsing hr9
+--> converting to pandas dfs
+--> saving datasets
+--> converting to pandas dfs
+--> saving datasets
